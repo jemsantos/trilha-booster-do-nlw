@@ -36,7 +36,8 @@ routes.post(
     }, {
         abortEarly: false
     }),
-    poitsController.create);
+    poitsController.create
+);
 
 export default routes;
 
